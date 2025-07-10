@@ -1,0 +1,11 @@
+Given two strings s1 and s2, write a function to check whether they are anagrams of each other.
+Ignore case and spaces.
+
+Input: s1 = "listen", s2 = "silent"
+Output: true
+
+Input: s1 = "rail safety", s2 = "fairy tales"
+Output: true
+
+Input: s1 = "hello", s2 = "world"
+Output: false

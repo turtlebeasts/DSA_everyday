@@ -1,0 +1,29 @@
+Problem: Can Two Strings Become Anagram by Changing at Most One Character?
+Given two strings s1 and s2 of same length,
+check if they can become anagrams of each other by changing at most one character in either string.
+
+Input: s1 = "abcde", s2 = "abfde"
+Output: true  // change 'f' to 'c' in s2 → becomes anagram
+
+Input: s1 = "aabb", s2 = "abbb"
+Output: true  // change one 'b' in s2 to 'a'
+
+Input: s1 = "abcd", s2 = "aacc"
+Output: false  // need to change more than 1 character
+
+Input: s1 = "race", s2 = "care"
+Output: true  // already anagram (0 changes)
+
+
+=============================
+Rules
+=============================
+
+Strings must be of equal length
+
+Ignore case and spaces
+
+Can modify at most one character (in any one string)
+
+Return true or false
+
