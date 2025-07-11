@@ -1,0 +1,9 @@
+Given an array of integers and a number k, find if there is any pair of elements in the array whose sum is exactly k.
+
+Input: arr[] = {8, 4, 1, 6}, k = 10  
+Output: Yes  
+Explanation: 4 + 6 = 10
+
+Input: arr[] = {1, 2, 3, 9}, k = 8  
+Output: No  
+Explanation: No such pair exists

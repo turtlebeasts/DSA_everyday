@@ -1,0 +1,5 @@
+Problem: Find the Largest Element in the Array
+Given an array of integers, find and return the maximum element.
+
+arr[] = {1, 8, 7, 56, 90}
+90

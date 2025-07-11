@@ -1,0 +1,3 @@
+Find the first missing positive number from a given array
+
+int arr[] = {4,2,-1,8}

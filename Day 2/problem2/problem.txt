@@ -1,0 +1,5 @@
+Question: Find First Repeating Element
+Given an array, find the first element that repeats more than once.
+
+arr[] = {10, 5, 3, 4, 3, 5, 6}
+5
