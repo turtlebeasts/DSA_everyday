@@ -1,0 +1,13 @@
+Given a string s, find the length of the longest substring without repeating characters.
+
+Input: s = "abcabcbb"
+Output: 3
+Explanation: "abc" is the longest substring without repeating characters.
+
+Input: s = "bbbbb"
+Output: 1
+Explanation: "b" is the longest substring without repeating characters.
+
+Input: s = "pwwkew"
+Output: 3
+Explanation: "wke" is the longest substring without repeating characters.
